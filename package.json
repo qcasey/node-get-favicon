@@ -1,0 +1,25 @@
+{
+  "name": "node-get-favicon",
+  "version": "0.1.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerrybendy/node-get-favicon.git"
+  },
+  "keywords": [],
+  "author": "Jerry Bendy <jerry@icewingcc.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jerrybendy/node-get-favicon/issues"
+  },
+  "homepage": "https://github.com/jerrybendy/node-get-favicon#readme",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "node-fetch": "^1.6.3",
+    "object-assign": "^4.1.1"
+  }
+}
