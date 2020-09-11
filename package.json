@@ -19,7 +19,7 @@
   "homepage": "https://github.com/jerrybendy/node-get-favicon#readme",
   "dependencies": {
     "bluebird": "^3.5.0",
-    "node-fetch": "^1.6.3",
+    "node-fetch": "^2.6.1",
     "object-assign": "^4.1.1"
   }
 }
